@@ -1,6 +1,29 @@
-# SortingVisualizer
-A sorting visualizer is a tool or application that graphically demonstrates how different sorting algorithms arrange data. It visually represents the process of sorting a list or array of elements (typically numbers) by displaying each step of the algorithm. This is useful for educational purposes, as it helps users understand how sorting algorithms work by providing an intuitive, visual approach to algorithm behavior.
+# Sorting Visualization
 
-Algorithm Selection: The user can choose from various sorting algorithms, such as Bubble Sort, Quick Sort, Merge Sort, Insertion Sort, etc. Each algorithm has a unique way of sorting the elements, which is demonstrated by the visualizer.
+## Purpose
+  This project's purpose was to help me understand how to implement sorting algorithms and how
+  sorting algorithms handle data in real time.
+  
+  This project was also featured at the Will Rogers Elementary STEM fair on February 24th, 2017
+___
 
-Visualization Process: As the algorithm progresses, the visualizer shows the movement of elements. Swaps, comparisons, and key steps are highlighted to demonstrate the inner workings of the algorithm.
+## Features
+  This project features many sorts including:
+  - Bubble sort
+  - Insertion sort
+  - Selection sort
+  - Gnome sort
+  - Shell sort
+  - Merge sort
+  - Radix sort (MSD and LSD)
+    
+  Later I plan to implement more sorts like Quick sort and Binary sort.
+  
+  You are able to change the speed at which the sorts operate as well as the size of the data set.
+  
+___
+
+### Usage at the STEM fair
+  This visualizer was used to excite young students about computer science by showing them great
+  things you can do with code. The program was given 13 data points, and told to sort it in a very
+  slow manner. The children would then race against it with one suit of playing cards.
